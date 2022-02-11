@@ -1,16 +1,13 @@
-# res_pro
+# Result Processing System
 
-A new Flutter project.
+A Flutter project aimed at generating well formatted Excel spreadsheet file using the data of the students inputted by the user.
 
-## Getting Started
+This project is 100% self-contained without any remote server connections.
 
-This project is a starting point for a Flutter application.
+A Dart implementation of SQLite is the database powering this project.
 
-A few resources to get you started if this is your first Flutter project:
+This project was built to the specification of the client.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I have the permission of the client to publish the source code.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The source code is filled with commented out codes. I prefer commenting out changes to deleting changes.
